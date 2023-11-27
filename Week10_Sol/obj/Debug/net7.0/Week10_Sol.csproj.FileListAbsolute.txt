@@ -1,0 +1,15 @@
+/Users/zairulmazwan/Dotnet/ADSLabWeek10_Sol/Week10_Sol/bin/Debug/net7.0/Week10_Sol
+/Users/zairulmazwan/Dotnet/ADSLabWeek10_Sol/Week10_Sol/bin/Debug/net7.0/Week10_Sol.deps.json
+/Users/zairulmazwan/Dotnet/ADSLabWeek10_Sol/Week10_Sol/bin/Debug/net7.0/Week10_Sol.runtimeconfig.json
+/Users/zairulmazwan/Dotnet/ADSLabWeek10_Sol/Week10_Sol/bin/Debug/net7.0/Week10_Sol.dll
+/Users/zairulmazwan/Dotnet/ADSLabWeek10_Sol/Week10_Sol/bin/Debug/net7.0/Week10_Sol.pdb
+/Users/zairulmazwan/Dotnet/ADSLabWeek10_Sol/Week10_Sol/obj/Debug/net7.0/Week10_Sol.csproj.AssemblyReference.cache
+/Users/zairulmazwan/Dotnet/ADSLabWeek10_Sol/Week10_Sol/obj/Debug/net7.0/Week10_Sol.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zairulmazwan/Dotnet/ADSLabWeek10_Sol/Week10_Sol/obj/Debug/net7.0/Week10_Sol.AssemblyInfoInputs.cache
+/Users/zairulmazwan/Dotnet/ADSLabWeek10_Sol/Week10_Sol/obj/Debug/net7.0/Week10_Sol.AssemblyInfo.cs
+/Users/zairulmazwan/Dotnet/ADSLabWeek10_Sol/Week10_Sol/obj/Debug/net7.0/Week10_Sol.csproj.CoreCompileInputs.cache
+/Users/zairulmazwan/Dotnet/ADSLabWeek10_Sol/Week10_Sol/obj/Debug/net7.0/Week10_Sol.dll
+/Users/zairulmazwan/Dotnet/ADSLabWeek10_Sol/Week10_Sol/obj/Debug/net7.0/refint/Week10_Sol.dll
+/Users/zairulmazwan/Dotnet/ADSLabWeek10_Sol/Week10_Sol/obj/Debug/net7.0/Week10_Sol.pdb
+/Users/zairulmazwan/Dotnet/ADSLabWeek10_Sol/Week10_Sol/obj/Debug/net7.0/Week10_Sol.genruntimeconfig.cache
+/Users/zairulmazwan/Dotnet/ADSLabWeek10_Sol/Week10_Sol/obj/Debug/net7.0/ref/Week10_Sol.dll

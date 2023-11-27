@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Week10_Sol/1.0.0": {
+        "runtime": {
+          "Week10_Sol.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Week10_Sol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
