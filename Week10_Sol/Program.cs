@@ -14,9 +14,9 @@
 // Console.WriteLine("MST Cost : "+MST.getMSTCost(dataset, mstNodes));
 
 
-// double [,] data10 = ReadWriteFile.readCSV("mstData_10.csv");
-// int [] mstRes = MST.Prim(data10);
-// Console.WriteLine("MST Cost : "+MST.getMSTCost(data10, mstRes));
+double [,] data10 = ReadWriteFile.readCSV("mstData_10.csv");
+int [] mstRes = MST.Prim(data10);
+Console.WriteLine("MST Cost : "+MST.getMSTCost(data10, mstRes));
 
 
 

@@ -1,6 +1,6 @@
 public class Experiment
 {
-    public static void runExp() //modify this method which may take some parameters
+    public static void runExp() 
     {
         double [,] results = new double[25,3];
         int i=0;
@@ -19,8 +19,8 @@ public class Experiment
                 DateTime start = DateTime.Now;
                
                
-                double [,] data20 = ReadWriteFile.readCSV(fileName);
-                int [] mstRes = MST.Prim(data20);
+                double [,] data = ReadWriteFile.readCSV(fileName);
+                int [] mstRes = MST.Prim(data);
                 Console.WriteLine("MST Cost : "+MST.getMSTCost(mstData, mstRes));
                 
                 
